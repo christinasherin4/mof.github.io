@@ -1,37 +1,129 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/christinasherin4/mof.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!Doctype html>
+<html lang = "en">
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<meta charset = "UTF-8">
+<title>DATA STRUCTURES</title>
+</head>
 
-### Markdown
+<body style="background-color:#FBF34F;">
+<style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+body, html {
+  height: 50%;
+  margin: 35px;
+}.bg {
+  background-image: url("C:\\Users\\Christina\\Desktop\\photos\\tu.gif");
+  height: 50%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+<style>
+p{
+  margin:35px;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ <style>
+ a:first-child div {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+a:last-child div {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+</style>
+</nav>
+<div class="bg"></div>
+</style>
+<header>
+<h1><b>MATTERS OF THE HEART</b></h1>
+<hr>
+<br>
+</header>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<figure>
+  <img src="C:\Users\Christina\Desktop\photos\okn.gif" width=600px
+   alt = "Programming">
+</figure>
+<main>
+  <p>
+    <br><i>It is not the voice that I fell in love with</i>.<br>
+    <br><i>It is the <b>heart</b></i>.<br>
+     <br><i><b>Fragile</b> yet <b>sharp </b> and <b>clear </b> like glass </i><br>
+<figure>
+  <img src="C:\Users\Christina\Desktop\photos\hrt.gif" width=300px
+   alt = "Programming">
+</figure>
+    <p>
+    <br><i><b>Soft</b> as snow </i>.<br>
+     <figure>
+  <img src="C:\Users\Christina\Desktop\photos\snow.gif" width=300px
+   alt = "Programming">
+</figure>
+    <p>
+    <br><i><b>Light </b> as a Feather </i>.<br>
 
-- Bulleted
-- List
+<figure>
+  <img src="C:\Users\Christina\Desktop\photos\original.gif" width=400px
+   alt = "Programming">
+</figure>
+<p>
+    <br><i>When rain drops falls on it </i>.<br>
+    <br><i>It becomes <b> heavy </b> </i>.<br>
+     <figure>
+  <img src="C:\Users\Christina\Desktop\photos\drop.gif" width=400px
+   alt = "Programming">
+</figure>
+<p>
+<br><i>But with the sunshine of <b>optimism</b> </i>.<br>
+    <br><i>It becomes <b> soft </b> and <b> tender </b> as never before </i>.<br>
+    <figure>
+  <img src="C:\Users\Christina\Desktop\photos\ss.gif" width=400px
+   alt = "Programming">
+</figure>
+<p>
+<br><i>Sometimes to know a  <b>heart</b> </i>.<br>
+    <br><i>All that is <b> required  </b> is <b> Silence </b> </i>.<br>
+    <figure>
+  <img src="C:\Users\Christina\Desktop\photos\soft.gif" width=400px
+   alt = "Programming">
+</figure>
+<p>
+<br><i>Silence to listen to the matters of the <b>heart</b> </i>.<br>
+    <br><i>Each <b> beat </b> with each <b> emotions </b> </i>.<br>
+    <figure>
+  <img src="C:\Users\Christina\Desktop\photos\tt.gif" width=400px
+   alt = "Programming">
+</figure>
+<p>
+<br><i> Best expressed as your  <b>voice</b> </i>.<br>
+    <br><i>Best heard in <b> silence </b> </i>.<br>
+    <figure>
+  <img src="C:\Users\Christina\Desktop\photos\tu.gif" width=400px
+   alt = "Programming">
+ </figure>
+   <p>
+   <br><i>Felt not by  <b>sight</b> </i>.<br>
+    <br><i>Not by <b> touch </b> </i>.<br>
+    <br><i>But felt deeply in <b> my heart </b> </i>.<br>
 
-1. Numbered
-2. List
+    <figure>
+  <img src="C:\Users\Christina\Desktop\photos\flwr.gif" width=400px
+   alt = "Programming">
+ </figure>
+    <hr>
+  <audio controls autoplay >
+  <source src="C:\Users\Christina\Desktop\photos\s.mp3" type="audio/s">
+  <source src="C:\Users\Christina\Desktop\photos\s.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+</main>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinasherin4/mof.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ <br>
+</body>
+ 
